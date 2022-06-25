@@ -1,0 +1,14 @@
+celery
+redis
+fastapi==0.63.0
+uvicorn==0.13.4
+pydantic
+sqlalchemy
+typing
+fastapi-login
+PyMySQL
+redis-server
+bcrypt
+cryptography
+requests
+pytest
